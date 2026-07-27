@@ -1,0 +1,481 @@
+country,year,scenario,co2_projected
+Brazil,2025,BAU,513.93
+Brazil,2025,Moderate Mitigation,503.65
+Brazil,2025,Aggressive Mitigation,488.24
+Brazil,2026,BAU,518.65
+Brazil,2026,Moderate Mitigation,498.11
+Brazil,2026,Aggressive Mitigation,468.08
+Brazil,2027,BAU,523.22
+Brazil,2027,Moderate Mitigation,492.45
+Brazil,2027,Aggressive Mitigation,448.59
+Brazil,2028,BAU,527.65
+Brazil,2028,Moderate Mitigation,486.69
+Brazil,2028,Aggressive Mitigation,429.78
+Brazil,2029,BAU,531.96
+Brazil,2029,Moderate Mitigation,480.85
+Brazil,2029,Aggressive Mitigation,411.62
+Brazil,2030,BAU,536.13
+Brazil,2030,Moderate Mitigation,474.93
+Brazil,2030,Aggressive Mitigation,394.1
+Brazil,2031,BAU,540.18
+Brazil,2031,Moderate Mitigation,468.94
+Brazil,2031,Aggressive Mitigation,377.23
+Brazil,2032,BAU,544.11
+Brazil,2032,Moderate Mitigation,462.91
+Brazil,2032,Aggressive Mitigation,360.97
+Brazil,2033,BAU,547.92
+Brazil,2033,Moderate Mitigation,456.82
+Brazil,2033,Aggressive Mitigation,345.32
+Brazil,2034,BAU,551.61
+Brazil,2034,Moderate Mitigation,450.71
+Brazil,2034,Aggressive Mitigation,330.27
+Brazil,2035,BAU,555.2
+Brazil,2035,Moderate Mitigation,444.56
+Brazil,2035,Aggressive Mitigation,315.8
+Brazil,2036,BAU,558.68
+Brazil,2036,Moderate Mitigation,438.4
+Brazil,2036,Aggressive Mitigation,301.89
+Brazil,2037,BAU,562.05
+Brazil,2037,Moderate Mitigation,432.23
+Brazil,2037,Aggressive Mitigation,288.52
+Brazil,2038,BAU,565.32
+Brazil,2038,Moderate Mitigation,426.05
+Brazil,2038,Aggressive Mitigation,275.69
+Brazil,2039,BAU,568.5
+Brazil,2039,Moderate Mitigation,419.88
+Brazil,2039,Aggressive Mitigation,263.38
+Brazil,2040,BAU,571.58
+Brazil,2040,Moderate Mitigation,413.71
+Brazil,2040,Aggressive Mitigation,251.57
+Canada,2025,BAU,580.28
+Canada,2025,Moderate Mitigation,568.68
+Canada,2025,Aggressive Mitigation,551.27
+Canada,2026,BAU,580.96
+Canada,2026,Moderate Mitigation,557.96
+Canada,2026,Aggressive Mitigation,524.32
+Canada,2027,BAU,581.59
+Canada,2027,Moderate Mitigation,547.39
+Canada,2027,Aggressive Mitigation,498.64
+Canada,2028,BAU,582.17
+Canada,2028,Moderate Mitigation,536.97
+Canada,2028,Aggressive Mitigation,474.18
+Canada,2029,BAU,582.7
+Canada,2029,Moderate Mitigation,526.72
+Canada,2029,Aggressive Mitigation,450.89
+Canada,2030,BAU,583.2
+Canada,2030,Moderate Mitigation,516.62
+Canada,2030,Aggressive Mitigation,428.71
+Canada,2031,BAU,583.66
+Canada,2031,Moderate Mitigation,506.69
+Canada,2031,Aggressive Mitigation,407.59
+Canada,2032,BAU,584.08
+Canada,2032,Moderate Mitigation,496.91
+Canada,2032,Aggressive Mitigation,387.49
+Canada,2033,BAU,584.47
+Canada,2033,Moderate Mitigation,487.3
+Canada,2033,Aggressive Mitigation,368.36
+Canada,2034,BAU,584.83
+Canada,2034,Moderate Mitigation,477.85
+Canada,2034,Aggressive Mitigation,350.16
+Canada,2035,BAU,585.17
+Canada,2035,Moderate Mitigation,468.56
+Canada,2035,Aggressive Mitigation,332.84
+Canada,2036,BAU,585.47
+Canada,2036,Moderate Mitigation,459.43
+Canada,2036,Aggressive Mitigation,316.37
+Canada,2037,BAU,585.76
+Canada,2037,Moderate Mitigation,450.46
+Canada,2037,Aggressive Mitigation,300.69
+Canada,2038,BAU,586.02
+Canada,2038,Moderate Mitigation,441.65
+Canada,2038,Aggressive Mitigation,285.79
+Canada,2039,BAU,586.27
+Canada,2039,Moderate Mitigation,433.0
+Canada,2039,Aggressive Mitigation,271.61
+Canada,2040,BAU,586.49
+Canada,2040,Moderate Mitigation,424.5
+Canada,2040,Aggressive Mitigation,258.13
+China,2025,BAU,11714.07
+China,2025,Moderate Mitigation,11479.79
+China,2025,Aggressive Mitigation,11128.37
+China,2026,BAU,11823.44
+China,2026,Moderate Mitigation,11355.23
+China,2026,Aggressive Mitigation,10670.65
+China,2027,BAU,11918.91
+China,2027,Moderate Mitigation,11217.98
+China,2027,Aggressive Mitigation,10218.97
+China,2028,BAU,12002.26
+China,2028,Moderate Mitigation,11070.5
+China,2028,Aggressive Mitigation,9775.91
+China,2029,BAU,12075.02
+China,2029,Moderate Mitigation,10914.86
+China,2029,Aggressive Mitigation,9343.42
+China,2030,BAU,12138.53
+China,2030,Moderate Mitigation,10752.83
+China,2030,Aggressive Mitigation,8922.94
+China,2031,BAU,12193.98
+China,2031,Moderate Mitigation,10585.91
+China,2031,Aggressive Mitigation,8515.51
+China,2032,BAU,12242.39
+China,2032,Moderate Mitigation,10415.37
+China,2032,Aggressive Mitigation,8121.85
+China,2033,BAU,12284.65
+China,2033,Moderate Mitigation,10242.3
+China,2033,Aggressive Mitigation,7742.39
+China,2034,BAU,12321.54
+China,2034,Moderate Mitigation,10067.6
+China,2034,Aggressive Mitigation,7377.36
+China,2035,BAU,12353.75
+China,2035,Moderate Mitigation,9892.03
+China,2035,Aggressive Mitigation,7026.81
+China,2036,BAU,12381.86
+China,2036,Moderate Mitigation,9716.25
+China,2036,Aggressive Mitigation,6690.66
+China,2037,BAU,12406.4
+China,2037,Moderate Mitigation,9540.8
+China,2037,Aggressive Mitigation,6368.73
+China,2038,BAU,12427.83
+China,2038,Moderate Mitigation,9366.13
+China,2038,Aggressive Mitigation,6060.74
+China,2039,BAU,12446.54
+China,2039,Moderate Mitigation,9192.63
+China,2039,Aggressive Mitigation,5766.37
+China,2040,BAU,12462.86
+China,2040,Moderate Mitigation,9020.59
+China,2040,Aggressive Mitigation,5485.24
+Germany,2025,BAU,745.61
+Germany,2025,Moderate Mitigation,730.7
+Germany,2025,Aggressive Mitigation,708.33
+Germany,2026,BAU,741.47
+Germany,2026,Moderate Mitigation,712.11
+Germany,2026,Aggressive Mitigation,669.18
+Germany,2027,BAU,737.46
+Germany,2027,Moderate Mitigation,694.09
+Germany,2027,Aggressive Mitigation,632.28
+Germany,2028,BAU,733.57
+Germany,2028,Moderate Mitigation,676.63
+Germany,2028,Aggressive Mitigation,597.5
+Germany,2029,BAU,729.81
+Germany,2029,Moderate Mitigation,659.69
+Germany,2029,Aggressive Mitigation,564.71
+Germany,2030,BAU,726.17
+Germany,2030,Moderate Mitigation,643.27
+Germany,2030,Aggressive Mitigation,533.8
+Germany,2031,BAU,722.64
+Germany,2031,Moderate Mitigation,627.34
+Germany,2031,Aggressive Mitigation,504.64
+Germany,2032,BAU,719.22
+Germany,2032,Moderate Mitigation,611.88
+Germany,2032,Aggressive Mitigation,477.14
+Germany,2033,BAU,715.9
+Germany,2033,Moderate Mitigation,596.88
+Germany,2033,Aggressive Mitigation,451.2
+Germany,2034,BAU,712.69
+Germany,2034,Moderate Mitigation,582.32
+Germany,2034,Aggressive Mitigation,426.72
+Germany,2035,BAU,709.58
+Germany,2035,Moderate Mitigation,568.19
+Germany,2035,Aggressive Mitigation,403.61
+Germany,2036,BAU,706.57
+Germany,2036,Moderate Mitigation,554.46
+Germany,2036,Aggressive Mitigation,381.8
+Germany,2037,BAU,703.66
+Germany,2037,Moderate Mitigation,541.13
+Germany,2037,Aggressive Mitigation,361.22
+Germany,2038,BAU,700.83
+Germany,2038,Moderate Mitigation,528.18
+Germany,2038,Aggressive Mitigation,341.78
+Germany,2039,BAU,698.09
+Germany,2039,Moderate Mitigation,515.59
+Germany,2039,Aggressive Mitigation,323.42
+Germany,2040,BAU,695.44
+Germany,2040,Moderate Mitigation,503.36
+Germany,2040,Aggressive Mitigation,306.08
+India,2025,BAU,3401.08
+India,2025,Moderate Mitigation,3333.06
+India,2025,Aggressive Mitigation,3231.03
+India,2026,BAU,3516.96
+India,2026,Moderate Mitigation,3377.69
+India,2026,Aggressive Mitigation,3174.05
+India,2027,BAU,3632.25
+India,2027,Moderate Mitigation,3418.64
+India,2027,Aggressive Mitigation,3114.2
+India,2028,BAU,3746.97
+India,2028,Moderate Mitigation,3456.08
+India,2028,Aggressive Mitigation,3051.93
+India,2029,BAU,3861.11
+India,2029,Moderate Mitigation,3490.14
+India,2029,Aggressive Mitigation,2987.65
+India,2030,BAU,3974.68
+India,2030,Moderate Mitigation,3520.94
+India,2030,Aggressive Mitigation,2921.76
+India,2031,BAU,4087.69
+India,2031,Moderate Mitigation,3548.62
+India,2031,Aggressive Mitigation,2854.58
+India,2032,BAU,4200.12
+India,2032,Moderate Mitigation,3573.31
+India,2032,Aggressive Mitigation,2786.45
+India,2033,BAU,4312.0
+India,2033,Moderate Mitigation,3595.12
+India,2033,Aggressive Mitigation,2717.64
+India,2034,BAU,4423.32
+India,2034,Moderate Mitigation,3614.17
+India,2034,Aggressive Mitigation,2648.4
+India,2035,BAU,4534.08
+India,2035,Moderate Mitigation,3630.58
+India,2035,Aggressive Mitigation,2578.99
+India,2036,BAU,4644.29
+India,2036,Moderate Mitigation,3644.45
+India,2036,Aggressive Mitigation,2509.59
+India,2037,BAU,4753.94
+India,2037,Moderate Mitigation,3655.89
+India,2037,Aggressive Mitigation,2440.4
+India,2038,BAU,4863.05
+India,2038,Moderate Mitigation,3665.0
+India,2038,Aggressive Mitigation,2371.59
+India,2039,BAU,4971.61
+India,2039,Moderate Mitigation,3671.88
+India,2039,Aggressive Mitigation,2303.31
+India,2040,BAU,5079.63
+India,2040,Moderate Mitigation,3676.63
+India,2040,Aggressive Mitigation,2235.68
+Japan,2025,BAU,1139.03
+Japan,2025,Moderate Mitigation,1116.25
+Japan,2025,Aggressive Mitigation,1082.08
+Japan,2026,BAU,1139.06
+Japan,2026,Moderate Mitigation,1093.96
+Japan,2026,Aggressive Mitigation,1028.01
+Japan,2027,BAU,1139.09
+Japan,2027,Moderate Mitigation,1072.1
+Japan,2027,Aggressive Mitigation,976.63
+Japan,2028,BAU,1139.11
+Japan,2028,Moderate Mitigation,1050.68
+Japan,2028,Aggressive Mitigation,927.81
+Japan,2029,BAU,1139.13
+Japan,2029,Moderate Mitigation,1029.68
+Japan,2029,Aggressive Mitigation,881.44
+Japan,2030,BAU,1139.15
+Japan,2030,Moderate Mitigation,1009.1
+Japan,2030,Aggressive Mitigation,837.38
+Japan,2031,BAU,1139.16
+Japan,2031,Moderate Mitigation,988.93
+Japan,2031,Aggressive Mitigation,795.52
+Japan,2032,BAU,1139.17
+Japan,2032,Moderate Mitigation,969.16
+Japan,2032,Aggressive Mitigation,755.75
+Japan,2033,BAU,1139.18
+Japan,2033,Moderate Mitigation,949.79
+Japan,2033,Aggressive Mitigation,717.97
+Japan,2034,BAU,1139.19
+Japan,2034,Moderate Mitigation,930.8
+Japan,2034,Aggressive Mitigation,682.07
+Japan,2035,BAU,1139.19
+Japan,2035,Moderate Mitigation,912.19
+Japan,2035,Aggressive Mitigation,647.97
+Japan,2036,BAU,1139.2
+Japan,2036,Moderate Mitigation,893.95
+Japan,2036,Aggressive Mitigation,615.58
+Japan,2037,BAU,1139.2
+Japan,2037,Moderate Mitigation,876.07
+Japan,2037,Aggressive Mitigation,584.8
+Japan,2038,BAU,1139.21
+Japan,2038,Moderate Mitigation,858.55
+Japan,2038,Aggressive Mitigation,555.56
+Japan,2039,BAU,1139.21
+Japan,2039,Moderate Mitigation,841.39
+Japan,2039,Aggressive Mitigation,527.79
+Japan,2040,BAU,1139.21
+Japan,2040,Moderate Mitigation,824.56
+Japan,2040,Aggressive Mitigation,501.4
+Russia,2025,BAU,1713.69
+Russia,2025,Moderate Mitigation,1679.42
+Russia,2025,Aggressive Mitigation,1628.01
+Russia,2026,BAU,1715.86
+Russia,2026,Moderate Mitigation,1647.91
+Russia,2026,Aggressive Mitigation,1548.56
+Russia,2027,BAU,1717.59
+Russia,2027,Moderate Mitigation,1616.58
+Russia,2027,Aggressive Mitigation,1472.62
+Russia,2028,BAU,1718.97
+Russia,2028,Moderate Mitigation,1585.53
+Russia,2028,Aggressive Mitigation,1400.11
+Russia,2029,BAU,1720.08
+Russia,2029,Moderate Mitigation,1554.82
+Russia,2029,Aggressive Mitigation,1330.96
+Russia,2030,BAU,1720.97
+Russia,2030,Moderate Mitigation,1524.5
+Russia,2030,Aggressive Mitigation,1265.07
+Russia,2031,BAU,1721.67
+Russia,2031,Moderate Mitigation,1494.63
+Russia,2031,Aggressive Mitigation,1202.31
+Russia,2032,BAU,1722.24
+Russia,2032,Moderate Mitigation,1465.22
+Russia,2032,Aggressive Mitigation,1142.57
+Russia,2033,BAU,1722.69
+Russia,2033,Moderate Mitigation,1436.29
+Russia,2033,Aggressive Mitigation,1085.73
+Russia,2034,BAU,1723.06
+Russia,2034,Moderate Mitigation,1407.86
+Russia,2034,Aggressive Mitigation,1031.66
+Russia,2035,BAU,1723.35
+Russia,2035,Moderate Mitigation,1379.94
+Russia,2035,Aggressive Mitigation,980.24
+Russia,2036,BAU,1723.58
+Russia,2036,Moderate Mitigation,1352.52
+Russia,2036,Aggressive Mitigation,931.35
+Russia,2037,BAU,1723.77
+Russia,2037,Moderate Mitigation,1325.61
+Russia,2037,Aggressive Mitigation,884.88
+Russia,2038,BAU,1723.91
+Russia,2038,Moderate Mitigation,1299.21
+Russia,2038,Aggressive Mitigation,840.71
+Russia,2039,BAU,1724.03
+Russia,2039,Moderate Mitigation,1273.32
+Russia,2039,Aggressive Mitigation,798.73
+Russia,2040,BAU,1724.13
+Russia,2040,Moderate Mitigation,1247.92
+Russia,2040,Aggressive Mitigation,758.83
+South Africa,2025,BAU,465.59
+South Africa,2025,Moderate Mitigation,456.27
+South Africa,2025,Aggressive Mitigation,442.31
+South Africa,2026,BAU,467.1
+South Africa,2026,Moderate Mitigation,448.61
+South Africa,2026,Aggressive Mitigation,421.56
+South Africa,2027,BAU,468.54
+South Africa,2027,Moderate Mitigation,440.99
+South Africa,2027,Aggressive Mitigation,401.72
+South Africa,2028,BAU,469.91
+South Africa,2028,Moderate Mitigation,433.43
+South Africa,2028,Aggressive Mitigation,382.74
+South Africa,2029,BAU,471.2
+South Africa,2029,Moderate Mitigation,425.93
+South Africa,2029,Aggressive Mitigation,364.6
+South Africa,2030,BAU,472.42
+South Africa,2030,Moderate Mitigation,418.49
+South Africa,2030,Aggressive Mitigation,347.27
+South Africa,2031,BAU,473.58
+South Africa,2031,Moderate Mitigation,411.13
+South Africa,2031,Aggressive Mitigation,330.72
+South Africa,2032,BAU,474.68
+South Africa,2032,Moderate Mitigation,403.84
+South Africa,2032,Aggressive Mitigation,314.91
+South Africa,2033,BAU,475.72
+South Africa,2033,Moderate Mitigation,396.63
+South Africa,2033,Aggressive Mitigation,299.82
+South Africa,2034,BAU,476.71
+South Africa,2034,Moderate Mitigation,389.51
+South Africa,2034,Aggressive Mitigation,285.42
+South Africa,2035,BAU,477.64
+South Africa,2035,Moderate Mitigation,382.46
+South Africa,2035,Aggressive Mitigation,271.68
+South Africa,2036,BAU,478.53
+South Africa,2036,Moderate Mitigation,375.51
+South Africa,2036,Aggressive Mitigation,258.58
+South Africa,2037,BAU,479.37
+South Africa,2037,Moderate Mitigation,368.65
+South Africa,2037,Aggressive Mitigation,246.08
+South Africa,2038,BAU,480.16
+South Africa,2038,Moderate Mitigation,361.87
+South Africa,2038,Aggressive Mitigation,234.16
+South Africa,2039,BAU,480.92
+South Africa,2039,Moderate Mitigation,355.19
+South Africa,2039,Aggressive Mitigation,222.8
+South Africa,2040,BAU,481.63
+South Africa,2040,Moderate Mitigation,348.6
+South Africa,2040,Aggressive Mitigation,211.98
+United Kingdom,2025,BAU,274.48
+United Kingdom,2025,Moderate Mitigation,268.99
+United Kingdom,2025,Aggressive Mitigation,260.76
+United Kingdom,2026,BAU,261.51
+United Kingdom,2026,Moderate Mitigation,251.16
+United Kingdom,2026,Aggressive Mitigation,236.02
+United Kingdom,2027,BAU,248.86
+United Kingdom,2027,Moderate Mitigation,234.23
+United Kingdom,2027,Aggressive Mitigation,213.37
+United Kingdom,2028,BAU,236.52
+United Kingdom,2028,Moderate Mitigation,218.16
+United Kingdom,2028,Aggressive Mitigation,192.64
+United Kingdom,2029,BAU,224.47
+United Kingdom,2029,Moderate Mitigation,202.91
+United Kingdom,2029,Aggressive Mitigation,173.69
+United Kingdom,2030,BAU,212.72
+United Kingdom,2030,Moderate Mitigation,188.44
+United Kingdom,2030,Aggressive Mitigation,156.37
+United Kingdom,2031,BAU,201.25
+United Kingdom,2031,Moderate Mitigation,174.71
+United Kingdom,2031,Aggressive Mitigation,140.54
+United Kingdom,2032,BAU,190.07
+United Kingdom,2032,Moderate Mitigation,161.7
+United Kingdom,2032,Aggressive Mitigation,126.09
+United Kingdom,2033,BAU,179.15
+United Kingdom,2033,Moderate Mitigation,149.37
+United Kingdom,2033,Aggressive Mitigation,112.91
+United Kingdom,2034,BAU,168.5
+United Kingdom,2034,Moderate Mitigation,137.68
+United Kingdom,2034,Aggressive Mitigation,100.89
+United Kingdom,2035,BAU,158.11
+United Kingdom,2035,Moderate Mitigation,126.6
+United Kingdom,2035,Aggressive Mitigation,89.93
+United Kingdom,2036,BAU,147.97
+United Kingdom,2036,Moderate Mitigation,116.11
+United Kingdom,2036,Aggressive Mitigation,79.96
+United Kingdom,2037,BAU,138.07
+United Kingdom,2037,Moderate Mitigation,106.18
+United Kingdom,2037,Aggressive Mitigation,70.88
+United Kingdom,2038,BAU,128.42
+United Kingdom,2038,Moderate Mitigation,96.78
+United Kingdom,2038,Aggressive Mitigation,62.63
+United Kingdom,2039,BAU,119.0
+United Kingdom,2039,Moderate Mitigation,87.89
+United Kingdom,2039,Aggressive Mitigation,55.13
+United Kingdom,2040,BAU,109.81
+United Kingdom,2040,Moderate Mitigation,79.48
+United Kingdom,2040,Aggressive Mitigation,48.33
+United States,2025,BAU,5257.38
+United States,2025,Moderate Mitigation,5152.23
+United States,2025,Aggressive Mitigation,4994.51
+United States,2026,BAU,5253.38
+United States,2026,Moderate Mitigation,5045.35
+United States,2026,Aggressive Mitigation,4741.18
+United States,2027,BAU,5249.91
+United States,2027,Moderate Mitigation,4941.17
+United States,2027,Aggressive Mitigation,4501.14
+United States,2028,BAU,5246.89
+United States,2028,Moderate Mitigation,4839.56
+United States,2028,Aggressive Mitigation,4273.62
+United States,2029,BAU,5244.26
+United States,2029,Moderate Mitigation,4740.4
+United States,2029,Aggressive Mitigation,4057.91
+United States,2030,BAU,5241.98
+United States,2030,Moderate Mitigation,4643.57
+United States,2030,Aggressive Mitigation,3853.34
+United States,2031,BAU,5239.99
+United States,2031,Moderate Mitigation,4548.97
+United States,2031,Aggressive Mitigation,3659.28
+United States,2032,BAU,5238.27
+United States,2032,Moderate Mitigation,4456.52
+United States,2032,Aggressive Mitigation,3475.17
+United States,2033,BAU,5236.77
+United States,2033,Moderate Mitigation,4366.14
+United States,2033,Aggressive Mitigation,3300.47
+United States,2034,BAU,5235.46
+United States,2034,Moderate Mitigation,4277.75
+United States,2034,Aggressive Mitigation,3134.66
+United States,2035,BAU,5234.32
+United States,2035,Moderate Mitigation,4191.29
+United States,2035,Aggressive Mitigation,2977.28
+United States,2036,BAU,5233.34
+United States,2036,Moderate Mitigation,4106.69
+United States,2036,Aggressive Mitigation,2827.89
+United States,2037,BAU,5232.48
+United States,2037,Moderate Mitigation,4023.89
+United States,2037,Aggressive Mitigation,2686.05
+United States,2038,BAU,5231.73
+United States,2038,Moderate Mitigation,3942.85
+United States,2038,Aggressive Mitigation,2551.39
+United States,2039,BAU,5231.08
+United States,2039,Moderate Mitigation,3863.52
+United States,2039,Aggressive Mitigation,2423.52
+United States,2040,BAU,5230.52
+United States,2040,Moderate Mitigation,3785.84
+United States,2040,Aggressive Mitigation,2302.09
